@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+live : - https://meetsoni345.github.io/pick-your-color/
 ## Available Scripts
 
 In the project directory, you can run:
